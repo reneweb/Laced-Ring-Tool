@@ -13,9 +13,9 @@ set the start project to LRVisualizer to start the visualization application (No
 
 ##### Solution Structure
 
-Example - Includes a sample IFL object
-LRConsoleApp - The console application
-LRVisualizer - The visualizer
-LRVisualizerContent - Custom content for the visualizer
-LacedRing - This project includes the code for the conversion, loading and storing of the IFL/LR structures
-Structures - Includes the code for the data structures
+Example - Includes a sample IFL object  
+LRConsoleApp - The console application  
+LRVisualizer - The visualizer  
+LRVisualizerContent - Custom content for the visualizer  
+LacedRing - This project includes the code for the conversion, loading and storing of the IFL/LR structures  
+Structures - Includes the code for the data structures  
